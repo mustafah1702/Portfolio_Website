@@ -36,10 +36,8 @@ const About = () => {
 
             <article className='about_card'>
               <MdComputer className='about_icon'/>
-              <h5>Technical Competencies</h5>
-              <p><small> Programming Languages Python, Java, RISC-V Assembly,  HTML, CSS, Javascript, SQL </small></p>
-              <p><small> Git, GitHub, Jira, Firebase (NoSQL) database</small></p>
-              <small> Microsoft Office: Word, Excel (Pivot Tables, Gantt Chart, Data Manipulation), PowerPoint, Access</small>
+              <h5>Interests</h5>
+              <small>Edit</small>
             </article>
           </div>
           <a href='#contact' className='btn btn-primary'>Let's Talk </a>
