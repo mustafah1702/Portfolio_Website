@@ -4,6 +4,7 @@ import "./about.css"
 import {FiAward} from 'react-icons/fi'
 import {BiBookBookmark} from 'react-icons/bi'
 import {MdComputer} from 'react-icons/md'
+import ME from '../../assets/image.png'
 
 const About = () => {
   return (
@@ -14,7 +15,7 @@ const About = () => {
       <div className='container about_container'>
         <div className='about_me'> 
         <div className='about_me-image'>
-          <img src="" alt="About Image" />
+          <img src={ME} alt="About Image" />
         </div>
         </div>
         <div className='about_content'>
