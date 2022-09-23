@@ -35,15 +35,15 @@ header {
 
 }
 .me {
-    /*background: linear-gradient(var(--color-primary)), transparent;*/
-    width: 22rem;
-    height: 30rem;
+    border-width: 10%;
+    border-color: yellow;
     position: absolute;
-    left: calc(67% - 11rem);
-    margin-top: 4rem;
+    left: calc(48% - 11rem);
     border-radius: 12rem 12rem 0 0;
     overflow: hidden;
     padding: 5rem 1.5rem 1.5rem 1.5rem;
+    width: 4000px;
+    height: auto;
 }
 
 .scroll_down {

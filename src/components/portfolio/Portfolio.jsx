@@ -12,7 +12,7 @@ const Portfolio = () => {
           <div className='portfolio_item-image'>
             <img src="" alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Sports Scheduler</h3>
           <div className='portfolio_item-cta'>
           <a href="https://github.com" className='btn' target='_blank'>Github</a>
           <a href = 'https://dribble.com/Alien_pixels' className = 'bth btn-primary' target='_blank'>Live Demo</a>
@@ -22,7 +22,17 @@ const Portfolio = () => {
           <div className='portfolio_item-image'>
             <img src="" alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3> Image (De)Compressor</h3>
+          <div className='portfolio_item-cta'>
+          <a href="https://github.com/mustafah1702/-De-Compressor" className='btn' target='_blank'>Github</a>
+          <a href = 'https://dribble.com/Alien_pixels' className = 'bth btn-primary' target='_blank'>Live Demo</a>
+          </div>
+        </article>
+        <article className='portfolio_item'>
+          <div className='portfolio_item-image'>
+            <img src="" alt="" />
+          </div>
+          <h3>Phone Plans Dataset</h3>
           <div className='portfolio_item-cta'>
           <a href="https://github.com" className='btn' target='_blank'>Github</a>
           <a href = 'https://dribble.com/Alien_pixels' className = 'bth btn-primary' target='_blank'>Live Demo</a>
@@ -32,7 +42,7 @@ const Portfolio = () => {
           <div className='portfolio_item-image'>
             <img src="" alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>SIMON Game</h3>
           <div className='portfolio_item-cta'>
           <a href="https://github.com" className='btn' target='_blank'>Github</a>
           <a href = 'https://dribble.com/Alien_pixels' className = 'bth btn-primary' target='_blank'>Live Demo</a>
@@ -42,32 +52,13 @@ const Portfolio = () => {
           <div className='portfolio_item-image'>
             <img src="" alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Portfolio Website</h3>
           <div className='portfolio_item-cta'>
-          <a href="https://github.com" className='btn' target='_blank'>Github</a>
+          <a href="https://github.com/mustafah1702/Portfolio_Website" className='btn' target='_blank'>Github</a>
           <a href = 'https://dribble.com/Alien_pixels' className = 'bth btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
-        <article className='portfolio_item'>
-          <div className='portfolio_item-image'>
-            <img src="" alt="" />
-          </div>
-          <h3>This is a portfolio item title</h3>
-          <div className='portfolio_item-cta'>
-          <a href="https://github.com" className='btn' target='_blank'>Github</a>
-          <a href = 'https://dribble.com/Alien_pixels' className = 'bth btn-primary' target='_blank'>Live Demo</a>
-          </div>
-        </article>
-        <article className='portfolio_item'>
-          <div className='portfolio_item-image'>
-            <img src="" alt="" />
-          </div>
-          <h3>This is a portfolio item title</h3>
-          <div className='portfolio_item-cta'>
-          <a href="https://github.com" className='btn' target='_blank'>Github</a>
-          <a href = 'https://dribble.com/Alien_pixels' className = 'bth btn-primary' target='_blank'>Live Demo</a>
-          </div>
-        </article>
+        
       </div>
     </section>
   )
