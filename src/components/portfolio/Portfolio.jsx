@@ -15,7 +15,7 @@ const Portfolio = () => {
           <h3>Sports Scheduler</h3>
           <div className='portfolio_item-cta'>
           <a href="https://github.com" className='btn' target='_blank'>Github</a>
-          <a href = 'https://dribble.com/Alien_pixels' className = 'bth btn-primary' target='_blank'>Live Demo Unavailable</a>
+          <a href = 'https://dribble.com/Alien_pixels' className = 'bth btn-primary' target='_blank'>Live Demo Upon Request</a>
           </div>
         </article>
         <article className='portfolio_item'>
@@ -25,7 +25,7 @@ const Portfolio = () => {
           <h3> Image (De)Compressor</h3>
           <div className='portfolio_item-cta'>
           <a href="https://github.com/mustafah1702/-De-Compressor" className='btn' target='_blank'>Github</a>
-          <a href = 'https://dribble.com/Alien_pixels' className = 'bth btn-primary' target='_blank'>Live Demo</a>
+          <a href = 'https://dribble.com/Alien_pixels' className = 'bth btn-primary' target='_blank'>Live Demo Upon Request</a>
           </div>
         </article>
         <article className='portfolio_item'>
@@ -35,7 +35,7 @@ const Portfolio = () => {
           <h3>Phone Plans Dataset</h3>
           <div className='portfolio_item-cta'>
           <a href="https://github.com" className='btn' target='_blank'>Github</a>
-          <a href = 'https://dribble.com/Alien_pixels' className = 'bth btn-primary' target='_blank'>Live Demo</a>
+          <a href = 'https://dribble.com/Alien_pixels' className = 'bth btn-primary' target='_blank'>Live Demo Upon Request</a>
           </div>
         </article>
         <article className='portfolio_item'>
@@ -45,7 +45,7 @@ const Portfolio = () => {
           <h3>SIMON Game</h3>
           <div className='portfolio_item-cta'>
           <a href="https://github.com" className='btn' target='_blank'>Github</a>
-          <a href = 'https://dribble.com/Alien_pixels' className = 'bth btn-primary' target='_blank'>Live Demo</a>
+          <a href = 'https://dribble.com/Alien_pixels' className = 'bth btn-primary' target='_blank'>Live Demo Upon Request</a>
           </div>
         </article>
         <article className='portfolio_item'>
