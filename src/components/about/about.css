@@ -15,9 +15,11 @@
 
 .about_me-image {
     border-radius: 2rem;
-    width: 3500px;
+    width: 210rem;
+    /*max-width: 300rem;*/
+    object-fit: cover;
     height: auto;
-    overflow: hidden;
+    overflow:hidden ;
     transform: rotate(3deg);
     transition: var(--transition);
 }

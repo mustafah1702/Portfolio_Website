@@ -4,7 +4,7 @@ import "./about.css"
 import {FiAward} from 'react-icons/fi'
 import {BiBookBookmark} from 'react-icons/bi'
 import {MdComputer} from 'react-icons/md'
-import ME from '../../assets/ss2.png'
+import ME from '../../assets/ss2 copy.png'
 
 const About = () => {
   return (

@@ -1,5 +1,6 @@
 import React from 'react'
 import './portfolio.css'
+import port from '../../assets/port.png'
 
 const Portfolio = () => {
   return (
@@ -50,7 +51,7 @@ const Portfolio = () => {
         </article>
         <article className='portfolio_item'>
           <div className='portfolio_item-image'>
-            <img src="" alt="" />
+            <img src= {port} alt="" />
           </div>
           <h3>Portfolio Website</h3>
           <div className='portfolio_item-cta'>
