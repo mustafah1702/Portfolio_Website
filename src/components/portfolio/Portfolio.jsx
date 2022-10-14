@@ -56,7 +56,7 @@ const Portfolio = () => {
           <h3>Portfolio Website</h3>
           <div className='portfolio_item-cta'>
           <a href="https://github.com/mustafah1702/Portfolio_Website" className='btn' target='_blank'>Github</a>
-          <a href = 'https://dribble.com/Alien_pixels' className = 'bth btn-primary' target='_blank'>Live Demo</a>
+          <a href = 'https://aboutmustafa.com/' className = 'bth btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
         
